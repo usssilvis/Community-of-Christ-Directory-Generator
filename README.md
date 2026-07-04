@@ -45,7 +45,10 @@ The following Options are available for document generation:
 --If checked, generates a PDF from the Word document and opens it in the default PDF viewer for the system. 
 
 -Use Wider Side Margins
---If checked, sets side margins to 0.5". If uncheck, side margins are set to 1". 
+--If checked, sets side margins to 1". If uncheck, side margins are set to 0.5". 
+
+-Include Extra Row on Priesthood Office Table
+--If checked, includes an extra row after including all necessary rows for data in the Priesthood Office Table for each Priesthood Office.
 
 There are two buttons on the "Instructions" sheet which can be used to generate the document. 
 
