@@ -1,5 +1,14 @@
 The Community of Christ Directory Generator is a macro-enabled Excel spreadsheet which converts a spreadsheet tab labeled "Directory" into a formatted Word document. 
 
+If this tool is downloaded from a browser, the browser will automatically disable the macros.
+To unblock the file, follow the following steps:
+
+For Windows:
+Right click on the file in File Explorer and select Properties. On the General tab, click the checkbox for Unblock at the bottom. Click Apply, then Ok.
+
+For Mac:
+Open the Terminal app and type "xattr -d com.apple.quarantine ", then drag and drop the Excel file into the Terminal window and press Enter. 
+
 This tool requires the "Microsoft Office XX.X Object Library" reference to be enabled. 
 The reference can be added from the Tools > References dropdown from the Visual Basic interface. 
 
